@@ -1,0 +1,8 @@
+.footer{
+ position: relative;
+ height: 300px;
+}
+.footer img{
+ position: absolute;
+ bottom: 0px;
+}

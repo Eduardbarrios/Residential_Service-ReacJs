@@ -1,0 +1,15 @@
+:root{
+ --color-texto-principal: #1A1A1A;
+ --color-texto-secundario:#A7A7A7;
+ --color-principal:#F28773;
+ --amarillo-flamenco:#FEC11E;
+ --verde-flamengo:#10964B;
+ --soft-green-flamengo:#B3D23A;
+ --azul-flamengo:#1E90CD;
+ --morado-flamengo:#843793;
+ --fucsia-flamengo:#EB388A;
+ --naranja-flamengo:#F59329;
+ --textos-general:#979797;
+ --main-font: 'Poppins';
+ --second-font:'Noto Sans Thai'
+}

@@ -1,0 +1,57 @@
+@import '../vars';
+
+.services{
+ display: flex;
+ flex-direction: column;
+ margin-top: 60px;
+ padding-bottom: 50px;
+}
+.services .title{
+ padding-left: 60px;
+ font-weight: 700;
+ font-size: 3.5rem;
+ line-height: 45px;
+}
+.cards-section{
+ align-self: center;
+ display: grid;
+ grid-template-columns: repeat(4, 1fr);
+ grid-auto-rows: auto;
+ width: 80%;
+ margin-top: 20px;
+ gap: 10px;
+}
+.services-cards{
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+}
+.element-img{
+ width: 40%;
+ height: 106px;
+}
+.cards-title{
+ font-family: var(--second-font);
+ font-weight: 700;
+ color: var(--color-principal);
+ size: 1.8rem;
+ padding-top: 20px;
+}
+.services-cards p{
+ width: 80%;
+ align-self: center;
+ text-align: center;
+ margin-top: 10px;
+}
+@media(max-width: 700px){
+ .cards-section{
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: auto;
+ }
+}
+@media(max-width: 400px){
+ .cards-section{
+  grid-template-columns: 1fr ;
+  grid-template-rows: auto;
+ }
+}

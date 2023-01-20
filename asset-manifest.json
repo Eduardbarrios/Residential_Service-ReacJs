@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Residential_Service-ReacJs/static/css/main.51eb109e.css",
+    "main.js": "/Residential_Service-ReacJs/static/js/main.c4b845e5.js",
+    "static/media/banner.png": "/Residential_Service-ReacJs/static/media/banner.780ddca5af2a6a6e80b8.png",
+    "static/media/Team1.png": "/Residential_Service-ReacJs/static/media/Team1.adc0fa85ca5e4888f03a.png",
+    "static/media/Team2.png": "/Residential_Service-ReacJs/static/media/Team2.21d9326288de09281de7.png",
+    "static/media/Team3.png": "/Residential_Service-ReacJs/static/media/Team3.dfce96cc8bf0868ea2ac.png",
+    "static/media/navbar-brand.svg": "/Residential_Service-ReacJs/static/media/navbar-brand.cb2e883608046f5183ca7a10cf042087.svg",
+    "static/media/pcElement.svg": "/Residential_Service-ReacJs/static/media/pcElement.534b09380bf68a52c718a23d797585a0.svg",
+    "static/media/busElement.svg": "/Residential_Service-ReacJs/static/media/busElement.363e3183ea6af1165277982c3405043b.svg",
+    "static/media/sheetElement.svg": "/Residential_Service-ReacJs/static/media/sheetElement.5b74b1db34536d218fb979ede787be66.svg",
+    "static/media/PQRElement.svg": "/Residential_Service-ReacJs/static/media/PQRElement.fba97d3bbed4e1ace33829124ab6ce73.svg",
+    "static/media/Footer.svg": "/Residential_Service-ReacJs/static/media/Footer.7fe3a6f2cc3d6a5ba78836dbf8f6f3a8.svg",
+    "static/media/Menubar.svg": "/Residential_Service-ReacJs/static/media/Menubar.ae5754f0b244d5e4a34e4b65480e90bf.svg",
+    "index.html": "/Residential_Service-ReacJs/index.html",
+    "main.51eb109e.css.map": "/Residential_Service-ReacJs/static/css/main.51eb109e.css.map",
+    "main.c4b845e5.js.map": "/Residential_Service-ReacJs/static/js/main.c4b845e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51eb109e.css",
+    "static/js/main.c4b845e5.js"
+  ]
+}
